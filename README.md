@@ -1,6 +1,6 @@
 # ⏱️ Stopwatch
 
-A simple stopwatch application built for practicing Git and GitHub.
+A simple and easy-to-use stopwatch application built using HTML, CSS, and JavaScript.
 
 ## Features
 
